@@ -1,0 +1,2 @@
+# Ejercicio36
+SolucionConElModeloDelParcialEjercicio36
